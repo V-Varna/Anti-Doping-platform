@@ -1,1 +1,1 @@
-This project leverages artificial intelligence, data analytics, and risk assessment techniques to detect and prevent doping in sports. It features pattern detection, case management, and collaboration tools designed to support anti-doping agencies, researchers, and sports organizations in promoting fairness, integrity, and data-driven decision-making.
+
