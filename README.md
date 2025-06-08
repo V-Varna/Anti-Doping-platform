@@ -5,7 +5,7 @@ This Anti-Doping Platform is a full-stack web application designed to assist ant
 
 Backend: Node.js, Express.js, MongoDB 
 
-Frontend: React , Axios, CSS/SCSS
+Frontend: React , CSS
 
 Authentication: JWT-based 
 
@@ -13,6 +13,7 @@ Additional Tools: ESLint, Prettier, dotenv for environment variables
 
 
 ✅ Project Setup & Run Guide
+
 1. Clone the Repository
 bash
 Copy
@@ -27,6 +28,8 @@ Edit
 project-sih/
 ├─ final_back/      # Node.js backend
 └─ final_front/     # React frontend
+
+
 2. Backend Setup (final_back)
 Navigate to backend:
 
@@ -60,6 +63,8 @@ arduino
 Copy
 Edit
 http://localhost:5000
+
+
 3. Frontend Setup 
 Open a new terminal and go to frontend:
 
@@ -91,6 +96,8 @@ arduino
 Copy
 Edit
 http://localhost:3000
+
+
 4. Access the Full App
 With both servers running:
 
@@ -99,6 +106,8 @@ Frontend: http://localhost:3000
 Backend API: http://localhost:5000
 
 Now you can explore the frontend screens, test API routes, and interact with the full system.
+
+
 
 5. (Optional) Setup ESLint + Prettier
 For best code quality, install relevant extensions in VS Code/WebStorm:
