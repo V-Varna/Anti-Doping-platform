@@ -3,11 +3,11 @@ This Anti-Doping Platform is a full-stack web application designed to assist ant
 
 🧰 Tech Stack
 
-Backend: Node.js, Express.js, MongoDB (or your choice), Mongoose
+Backend: Node.js, Express.js, MongoDB 
 
-Frontend: React (or Vue / Angular), Axios, CSS/SCSS
+Frontend: React , Axios, CSS/SCSS
 
-Authentication: JWT-based (assumed)
+Authentication: JWT-based 
 
 Additional Tools: ESLint, Prettier, dotenv for environment variables
 
@@ -40,7 +40,7 @@ bash
 Copy
 Edit
 npm install
-Create a .env file (or .env.local) with your environment variables:
+Create a .env file  with your environment variables:
 
 env
 Copy
@@ -60,7 +60,7 @@ arduino
 Copy
 Edit
 http://localhost:5000
-3. Frontend Setup (final_front)
+3. Frontend Setup 
 Open a new terminal and go to frontend:
 
 bash
